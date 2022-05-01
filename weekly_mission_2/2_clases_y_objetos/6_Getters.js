@@ -17,4 +17,4 @@ class Ajolonauta {
   
   console.log("Ejemplo 6: Getters para acceder a los atributos del objeto")
   const woopa = new Ajolonauta("Woopa", 1, [])
-  console.log(woopa.getExercisesCompleted)
+  console.log(woopa.age)
