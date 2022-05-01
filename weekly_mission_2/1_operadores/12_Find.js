@@ -6,5 +6,5 @@ const scores12 = [
     { name: 'M', score: 85 },
     { name: 'J', score: 100 },
   ]
-  const score_less_than_80 = scores12.find((user) => user.score > 80)
+  const score_less_than_80 = scores12.find((user) => user.score > 50)
   console.log("Ejemplo 12. Name score found:" + score_less_than_80.name)
