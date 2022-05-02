@@ -36,3 +36,4 @@ class MissionCommander {
   
   console.log(missionCommanderNode.getStudents) // 0 por default
   console.log(missionCommanderNode.getLives)// 0 por default
+  
